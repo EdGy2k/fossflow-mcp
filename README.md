@@ -35,8 +35,8 @@ And Claude will create the diagram for you in real-time.
 ### 1. Clone and Start FossFLOW (MCP-enabled fork)
 
 ```bash
-git clone https://github.com/EdGy2k/fossflow-bridge.git
-cd fossflow-bridge
+git clone https://github.com/EdGy2k/fossflow-mcp-fork.git
+cd fossflow-mcp-fork
 npm install
 
 # Terminal 1: Start WebSocket bridge
